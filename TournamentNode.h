@@ -1,10 +1,3 @@
-/*
-Full name: Nima Karimi and Julia Beroud
-Student ID: 2485949
-Chapman Email: nikarimi@chapman.edu
-Course number and section: CPSC-350-02
-Assignment number: PA 5: Scare Games
-*/
 #ifndef TOURNAMENTNODE_H
 #define TOURNAMENTNODE_H
 #include "Monster.h"
